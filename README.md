@@ -123,11 +123,11 @@ Full-stack travel platform featuring property listings, user authentication, and
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/yash-giri">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="giriyash10m@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
